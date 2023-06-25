@@ -1,0 +1,80 @@
+APTITUDE ASSIGNMENT 3
+
+1. Write two quadratic equations such that the sum of roots equals twice the
+product of roots?
+Let the roots of the quadratic equation ax^2 + bx + c = 0 be α and β. Then:
+α + β = -b/a
+αβ = c/a
+We want to find two quadratic equations such that the sum of roots equals twice the product of roots. That is:
+α + β = 2αβ
+Substituting the expressions for α + β and αβ from above, we get:
+-b/a = 2c/a
+Simplifying this equation, we get:
+b = -2c
+Therefore, two quadratic equations that satisfy the given condition are:
+x^2 + 2x + 1 = 0
+and
+x^2 - 2x + 1 = 0
+The sum of roots of each equation is:
+α + β = -b/a = -2/(1) = -2
+The product of roots of each equation is:
+αβ = c/a = 1/(1) = 1
+Therefore, the sum of roots of each equation is twice the product of roots.
+
+===========================================================================
+2. 2x+3y=12 has (2,3) as its solution or not?
+
+To check whether (2,3) satisfies the equation 2x+3y=12, we substitute x=2 and y=3 in the equation:
+
+2(2) + 3(3) = 4 + 9 = 13
+
+Therefore, (2,3) does not satisfy the equation 2x+3y=12.
+===========================================================================
+3. Find possible coordinates of (x,y) such that point (1,1), (2,2) & (x,y) are collinear?
+
+To find possible coordinates of (x,y) such that point (1,1), (2,2) & (x,y) are collinear, we can use the collinear points formula.
+
+The formula is:
+
+(y2− y1)(x3− x2) = (y3− y2)(x2− x1)
+
+where (x1,y1) = (1,1), (x2,y2) = (2,2), and (x3,y3) = (x,y).
+
+Substituting the values in the formula:
+
+(2-1)(y-2) = (y-1)(x-2)
+
+Simplifying the equation:
+
+y - 4 = x - 2y + 2
+
+Rearranging the terms:
+
+x + y = 6
+
+Therefore, all possible coordinates of (x,y) such that point (1,1), (2,2) & (x,y) are collinear are given by the equation x + y = 6.
+===========================================================================
+4. Find out all possible values of a & b for which the ratio of a^3+b^3 to a^3-b^3 is 1:1 a,b are real numbers.
+
+a3+b3 / a3-b3 = 1/1
+Multiplying both sides by a3-b3:
+a3+b3 = a3-b3
+2b^3 = 0
+b = 0
+Substituting b = 0 in the original equation:
+a^3 / a^3 = 1/1
+a = ±1
+Therefore, all possible values of a and b for which the ratio of a3+b3 to a3-b3 is 1:1 are given by (a,b) = (1,0) and (a,b) = (-1,0).
+===========================================================================
+5. The triangle area formed by the lines y=x, y-axis and y=3 line will be?
+
+The triangle area formed by the lines y=x, y-axis and y=3 line can be found by finding the intersection points of the lines. The intersection points are (0,0) and (3,3). Therefore, the base of the triangle is 3 units and the height of the triangle is 3 units. The area of the triangle is given by:
+
+Area = 1/2 * base * height
+
+Area = 1/2 * 3 * 3
+
+Area = 4.5 square units
+
+Therefore, the area of the triangle formed by the lines y=x, y-axis and y=3 line is 4.5 square units.
+==========================================================================

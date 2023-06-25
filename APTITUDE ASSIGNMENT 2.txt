@@ -1,0 +1,177 @@
+APTITUDE ASSIGNMENT 2
+
+1. What quantity of water should be added to the milk water mixture so that
+the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the
+mixture is 40 litres?
+
+Let the quantity of water to be added be x litres. The ratio of milk and water in the mixture is 2:3. Therefore, the quantity of milk in the mixture is 40 litres and the quantity of water is 60 litres.
+we need to add x litres of water to the mixture so that the ratio of milk and water becomes 4:11. Therefore, the quantity of milk in the new mixture will be (40/5) * 4 = 32 litres and the quantity of water will be (60+x)/5 * 11 = (660+11x)/5 litres.
+
+Since we are adding only water, we can say that:
+
+(660+11x)/5 = x + 60
+
+Solving for x, we get:
+
+x = 20 litres
+
+Therefore, we need to add 20 litres of water to the mixture so that the milk-water ratio changes from 2:3 to 4:11.
+===========================================================================
+2. Linear equation 2x+3y=0 meets the x & y-axis at the point?
+
+The given linear equation is 2x + 3y = 0. To find the point where the line intersects the x-axis, we substitute y = 0 in the equation and solve for x. Therefore:
+
+2x + 3(0) = 0
+
+2x = 0
+
+x = 0
+
+So the point where the line intersects the x-axis is (0, 0). Similarly, to find the point where the line intersects the y-axis, we substitute x = 0 in the equation and solve for y. Therefore:
+
+2(0) + 3y = 0
+
+3y = 0
+
+y = 0
+
+So the point where the line intersects the y-axis is (0, 0)
+===========================================================================
+3. a & b are positive integers such that a^2-b^=19. Find a & b?
+
+The given equation is a^2 - b^2 = 19. We can factorize this equation as follows:
+
+(a + b)(a - b) = 19
+
+Since 19 is a prime number, the only possible values for (a + b) and (a - b) are 19 and 1 respectively. Therefore:
+
+a + b = 19
+
+a - b = 1
+
+Solving these equations simultaneously gives us:
+
+a = 10
+
+b = 9
+
+Therefore, the values of a and b are 10 and 9 respectively
+===========================================================================
+4. Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+
+We have two equations:
+
+a + b + c = 5
+
+a^2 + b^2 + c^2 = 10
+
+We can use the identity (a + b + c)^3 = a^3 + b^3 + c^3 + 3(a + b)(b + c)(c + a) to find a^3 + b^3 + c^3:
+
+(a + b + c)^3 = a^3 + b^3 + c^3 + 3(a + b)(b + c)(c + a)
+
+Substituting the given values of a + b + c and a^2 + b^2 + c^2, we get:
+
+125 = a^3 + b^3 + c^3 + 3(a + b)(b + c)(c + a)
+
+125 = a^3 + b^3 + c^3 + 3(ab(a+b) + bc(b+c) + ca(c+a))
+
+125 = a^3+b^3+c^3+3abc(a+b+c)
+
+Substituting the given values of a+b+c and a^2+b^2+c^2, we get:
+
+125 = a^3+b^3+c^3+15abc
+
+Therefore,
+
+a^3+b^3+c^3+3abc = 125 - 12abc
+
+Now we need to find the value of abc. We can use the identity (a - b)^2+(b - c)^2+(c - a)^2=2(a^2+b^2+c^2-(ab+bc+ca)) to find ab+bc+ca:
+
+(a - b)^2+(b - c)^2+(c - a)^2=2(a^2+b^2+c^2-(ab+bc+ca))
+
+Substituting the given values of a+b+c and a^2+b^2+c^2, we get:
+
+18 = 2(10 - (ab+bc+ca))
+
+9 = 5 - ab - bc - ca
+
+ab+bc+ca = 4
+
+Now we can substitute this value into our expression for a^3+b^3+c^3+3abc:
+
+a^3+b^3+c^3+3abc = 125 - 12abc
+
+a^3+b^3+c^3+12(ab+bc+ca) = 173
+
+Substituting the given value of ab+bc+ca, we get:
+
+a^3+b^3+c^3+48 = 173
+
+a^3+b^3+c^3 = 125
+
+Therefore,
+
+a ^ 1/1+b ^ 1/1+c ^ 1/1=5/1
+
+a ^ 1/1*b ^ 1/1*c ^ 1/1=4/1[^5]
+
+==========================================================================
+5. Sum of two, two-digit numbers is a perfect square. The digits of the first
+two-digit number are two consecutive positive integers; also, when the digits
+of the first number are reversed, the second number is formed. Find these
+numbers & the square root of their sum.
+
+Let the two-digit number be 10a + b, where a and b are consecutive positive integers. Then the other two-digit number is 10b + a. The sum of these two numbers is:
+
+(10a + b) + (10b + a) = 11(a + b)
+
+Since the sum of two two-digit numbers is a perfect square, 11(a + b) must be a perfect square. The only perfect squares less than 100 that are divisible by 11 are 121 and 484. Therefore:
+
+11(a + b) = 121 or 11(a + b) = 484
+
+If 11(a + b) = 121, then a + b = 11. The possible values of a and b are (1,2), (2,3), (3,4), (4,5), (5,6), (6,7), (7,8), (8,9), and (9,10). The corresponding two-digit numbers are 12, 23, 34, 45, 56, 67, 78, 89, and 90. Reversing the digits of each of these numbers gives the other two-digit number. For example, reversing the digits of 12 gives 21.
+
+If 11(a + b) = 484, then a + b = 44. The only possible values of a and b are (1,43) and (43,1). The corresponding two-digit numbers are 14 and 41.
+
+Therefore, the two-digit numbers are either 12 and 21, 23 and 32, …, or 14 and 41. The sum of these numbers is:
+
+12 + 21 = 33
+
+23 + 32 = 55
+
+34 + 43 = 77
+
+45 + 54 = 99
+
+56 + 65 =121
+
+67 +76 =143
+
+78+87=165
+
+89+98=187
+
+14+41=55
+
+The square root of their sum is:
+
+sqrt(33+55+77+99+121+143+165+187+55)=sqrt(935)
+
+Therefore,
+
+the two-digit numbers are either:
+
+12 and 21
+23 and 32
+34 and 43
+45 and 54
+56 and 65
+67 and 76
+78 and 87
+89 and 98
+14 and 41
+and the square root of their sum is approximately equal to 30.5778.
+==========================================================================
+
+
+

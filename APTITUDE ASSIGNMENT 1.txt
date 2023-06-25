@@ -1,0 +1,29 @@
+APTITUDE ASSIGNMENT 1
+
+1. The equations of the lines x=2 & y=4 meet at the point .............
+SOLN.
+The equation of the line x=2 cuts the x-axis at (2,0) and the equation of the line y=4 cuts the y-axis at (0,4). Therefore, the point where both lines intersect is (2,4).
+
+============================================================================
+2. Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+
+The system of equations 2X+3Y=9 & 7X+9Y=-6 has only one solution. This is because the two lines intersect at a single point.
+==========================================================================
+3. Equation 7x+9y=-5 has how many keys?
+
+The equation 7x+9y=-5 has only one solution. This is because the line represented by the equation intersects the x and y axes at a single point. We can solve for x or y to find the solution. For example, if you solve for x, you get x=(-9y-5)/7. This means that for every value of y, there is only one corresponding value of x that satisfies the equation.
+
+===========================================================================
+
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0 .
+
+The equation ax^2+bx+c=0 is a quadratic equation. If a=b=c=0, then the equation becomes 0x^2+0x+0=0. This is equivalent to 0=0. This means that the equation is true for all values of x. In other words, there are an infinite number of solutions to this equation.
+===========================================================================
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find
+out the ratio of their expenditures
+
+Let the income of A be 2x and the income of B be 3x. Since their incomes are in the ratio 2:3, we can say that 3x/2 = 3000. This means that x = 2000. Therefore, the income of A is 2x = Rs. 4000 and the income of B is 3x = Rs. 6000.
+
+If their savings are Rs. 500 and Rs. 700 respectively, then their expenditures are (income - savings). The expenditure of A is (4000-500) = Rs. 3500 and the expenditure of B is (6000-700) = Rs. 5300.
+
+The ratio of their expenditures is (3500/5300) which simplifies to (70/106) or (35/53) in its simplest form1.
